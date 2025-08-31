@@ -1,0 +1,12 @@
+.env
+node_modules/
+package-lock.json
+dist/
+build/
+
+
+# VSCode
+.vscode/
+
+# Cobertura de tests
+coverage/
