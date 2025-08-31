@@ -96,3 +96,10 @@ npm run test:coverage      # Ejecutar tests con reporte de cobertura
 - Rate limiting para endpoints sensibles
 - Passwords hasheados con bcrypt
 - Confirmación de email requerida
+
+## 🌐 Deploy
+
+El backend está desplegado en **Render** y podés acceder a la API en:
+
+[https://cashtrackr-backend-to30.onrender.com](https://cashtrackr-backend-to30.onrender.com)
+
